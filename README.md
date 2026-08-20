@@ -1,1 +1,5 @@
-This schema is designed for managing airline operations, providing structure to handle large data sets. It includes storage for passengers, flights, tickets, airports, airlines, and flight classes.
+## Database_Architecture_Airline_Inventory_System
+
+A relational database system for managing airlines, airports, flights, passengers, tickets, flight classes, and airline inventory.
+
+This database schema is designed for managing airline inventory and operational data, providing a structured system for tracking airlines, airports, flights, passengers, tickets, and flight classes. It establishes relationships between essential airline records to support accurate scheduling, passenger management, ticketing, seat availability, and efficient airline operations.
